@@ -1,4 +1,4 @@
-Exercpicio de POO do professor Guanabara
+Exercicio de POO do professor Guanabara
 
 ## Getting Started
 
